@@ -101,7 +101,7 @@ Initial path for the end-points in the current version: `/api/trafficgen/v1`
 
 ## Documentation
 
-TODO (e.g. link to wiki page)
+The documentation relative to this project can be found in the [Wiki page](https://github.com/sonata-nfv/tng-sdk-traffic/wiki) of this repository.
 
 ## Development
 
